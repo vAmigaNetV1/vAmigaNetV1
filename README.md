@@ -11,7 +11,7 @@ This repository contains version 1.0 of vAmiga.net. It will be removed once vers
 
 # Deployment
 
-[https://vamiganet.github.io](https://vamiganetV1.github.io)
+[https://vamiganetV1.github.io](https://vamiganetV1.github.io)
 
 # Installation istructions
 
