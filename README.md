@@ -5,11 +5,13 @@
 
 # About 
 
-vAmiga.net is a web port of [vAmiga](https://dirkwhoffmann.github.io/vAmiga/), based on WASM, Svelte-Kit, Typescript and Tailwind. It emulates a Commodore Amiga 500, 1000 or 2000 in your browser.
+vAmiga.net is a web-based port of [vAmiga](https://dirkwhoffmann.github.io/vAmiga/), built with WebAssembly (WASM), SvelteKit, TypeScript, and Tailwind CSS. It emulates a Commodore Amiga 500, 1000, or 2000 — directly in your browser.
+
+This repository contains version 1.0 of vAmiga.net. It will be removed once version 2.0 reaches a stable release.
 
 # Deployment
 
-[https://vamiganet.github.io](https://vamiganet.github.io)
+[https://vamiganet.github.io](https://vamiganetV1.github.io)
 
 # Installation istructions
 
