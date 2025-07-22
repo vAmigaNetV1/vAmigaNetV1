@@ -26,7 +26,7 @@ mkdir wasm
 emcmake cmake -S cpp -B build
 
 # Build the WASM part
-cd wasm
+cd build
 make -j
 
 # Option 1: Run a local build
